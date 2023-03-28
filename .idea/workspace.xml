@@ -4,89 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f79b274-3953-4e00-a7a5-8a47a24834d6" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/authors/admin/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_150x150_fill_q75_lanczos_center.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authors/admin/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q75_lanczos_center.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/hero-academic_hu82cd9fc38a1b82539b67e1ac2299e460_47817_1200x0_resize_lanczos_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/hero-academic_hu82cd9fc38a1b82539b67e1ac2299e460_47817_400x0_resize_lanczos_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/hero-academic_hu82cd9fc38a1b82539b67e1ac2299e460_47817_800x0_resize_lanczos_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icon_hu82cd9fc38a1b82539b67e1ac2299e460_47817_180x180_fill_lanczos_center_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icon_hu82cd9fc38a1b82539b67e1ac2299e460_47817_192x192_fill_lanczos_center_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icon_hu82cd9fc38a1b82539b67e1ac2299e460_47817_32x32_fill_lanczos_center_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icon_hu82cd9fc38a1b82539b67e1ac2299e460_47817_512x512_fill_lanczos_center_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authors/admin/avatar_hu82cd9fc38a1b82539b67e1ac2299e460_47817_150x150_fill_q75_lanczos_center.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/authors/admin/avatar_hu82cd9fc38a1b82539b67e1ac2299e460_47817_150x150_fill_q75_lanczos_center.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/demo/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/category/demo/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/r/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/r/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/r/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/category/r/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/教程/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/教程/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/教程/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/category/教程/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/event/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2020-12-01-r-rmarkdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2020-12-01-r-rmarkdown/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/getting-started/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/getting-started/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/jupyter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/jupyter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/writing-technical-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/writing-technical-content/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/privacy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/example/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/external-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/external-project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication-type/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication-type/1/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/1/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication-type/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication-type/2/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/2/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication-type/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication-type/3/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/3/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/conference-paper/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/conference-paper/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/publication/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/journal-article/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/journal-article/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/preprint/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/preprint/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides/example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides/example/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/academic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/academic/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/academic/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/academic/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/deep-learning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/deep-learning/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/deep-learning/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/deep-learning/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/demo/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/demo/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/plot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/plot/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/plot/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/plot/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/r-markdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/r-markdown/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/r-markdown/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/r-markdown/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/regression/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/regression/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/regression/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/regression/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/source-themes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/source-themes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/source-themes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/source-themes/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/开源/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/开源/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/开源/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/开源/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk/example-talk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/talk/example-talk/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="1f79b274-3953-4e00-a7a5-8a47a24834d6" name="Changes" comment="First commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -103,7 +27,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/lsuryana/PycharmProjects/lucassuryana.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -111,12 +34,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/authors/admin" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
